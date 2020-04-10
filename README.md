@@ -11,8 +11,11 @@ Trailer (rus) https://drive.google.com/drive/folders/1yJqIxFIWcHreIXkblyYbaFrNf_
   Eng letters - enemies
 
 ## Movement
+
   WASD - to move
+  
   1/2 - to attack
+  
   E - equip items in your incentory
   
   If you touch enemy you go to battle phase.
