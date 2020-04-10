@@ -1,0 +1,14 @@
+#pragma once
+#include "creature.h"
+#include "game_manager.h"
+#include "hero.h"
+#include "heroes.h"
+#include "monster.h"
+#include "monsters.h"
+#include "utils.h"
+#include <iostream>
+#include "Inventory.h"
+#include "windows.h"
+#include "conio.h"
+#include "stdlib.h"
+#include "stdio.h"

@@ -1,0 +1,51 @@
+﻿  Game_manager.cpp
+c:\users\metal\desktop\quola_aisic_close_b\smallrpg\map.h(351): warning C4101: ground: неиспользованная локальная переменная
+c:\users\metal\desktop\quola_aisic_close_b\smallrpg\map.h(351): warning C4101: water: неиспользованная локальная переменная
+c:\users\metal\desktop\quola_aisic_close_b\smallrpg\map.h(351): warning C4101: kliff: неиспользованная локальная переменная
+c:\users\metal\desktop\quola_aisic_close_b\smallrpg\map.h(351): warning C4101: swamp: неиспользованная локальная переменная
+c:\users\metal\desktop\quola_aisic_close_b\smallrpg\map.h(351): warning C4101: hiKliff: неиспользованная локальная переменная
+c:\users\metal\desktop\quola_aisic_close_b\smallrpg\map.h(351): warning C4101: sand: неиспользованная локальная переменная
+c:\users\metal\desktop\quola_aisic_close_b\smallrpg\map.h(1862): warning C4101: y: неиспользованная локальная переменная
+c:\users\metal\desktop\quola_aisic_close_b\smallrpg\map.h(1861): warning C4101: x: неиспользованная локальная переменная
+c:\users\metal\desktop\quola_aisic_close_b\smallrpg\game_manager.h(19): warning C4305: инициализация: усечение из "double" в "float"
+c:\users\metal\desktop\quola_aisic_close_b\smallrpg\game_manager.cpp(1844): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+c:\users\metal\desktop\quola_aisic_close_b\smallrpg\game_manager.cpp(1900): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+c:\users\metal\desktop\quola_aisic_close_b\smallrpg\game_manager.cpp(1904): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+c:\users\metal\desktop\quola_aisic_close_b\smallrpg\game_manager.cpp(1910): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+c:\users\metal\desktop\quola_aisic_close_b\smallrpg\game_manager.cpp(1964): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+c:\users\metal\desktop\quola_aisic_close_b\smallrpg\game_manager.cpp(1976): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+c:\users\metal\desktop\quola_aisic_close_b\smallrpg\game_manager.cpp(1983): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+c:\users\metal\desktop\quola_aisic_close_b\smallrpg\game_manager.cpp(1991): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+c:\users\metal\desktop\quola_aisic_close_b\smallrpg\game_manager.cpp(1999): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+c:\users\metal\desktop\quola_aisic_close_b\smallrpg\game_manager.cpp(2057): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+c:\users\metal\desktop\quola_aisic_close_b\smallrpg\game_manager.cpp(2072): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+c:\users\metal\desktop\quola_aisic_close_b\smallrpg\game_manager.cpp(2084): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+c:\users\metal\desktop\quola_aisic_close_b\smallrpg\game_manager.cpp(2099): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+c:\users\metal\desktop\quola_aisic_close_b\smallrpg\game_manager.cpp(2409): warning C4552: "!": результат выражения не используется
+c:\users\metal\desktop\quola_aisic_close_b\smallrpg\game_manager.cpp(2410): warning C4552: "!": результат выражения не используется
+c:\users\metal\desktop\quola_aisic_close_b\smallrpg\game_manager.cpp(2411): warning C4552: "!": результат выражения не используется
+c:\users\metal\desktop\quola_aisic_close_b\smallrpg\game_manager.cpp(2412): warning C4552: "!": результат выражения не используется
+c:\users\metal\desktop\quola_aisic_close_b\smallrpg\game_manager.cpp(2413): warning C4552: "!": результат выражения не используется
+c:\users\metal\desktop\quola_aisic_close_b\smallrpg\game_manager.cpp(2543): warning C4552: "!": результат выражения не используется
+c:\users\metal\desktop\quola_aisic_close_b\smallrpg\game_manager.cpp(2571): warning C4552: "!": результат выражения не используется
+c:\users\metal\desktop\quola_aisic_close_b\smallrpg\game_manager.cpp(2598): warning C4552: "!": результат выражения не используется
+c:\users\metal\desktop\quola_aisic_close_b\smallrpg\game_manager.cpp(2627): warning C4552: "!": результат выражения не используется
+c:\users\metal\desktop\quola_aisic_close_b\smallrpg\game_manager.cpp(2637): warning C4552: "!": результат выражения не используется
+c:\users\metal\desktop\quola_aisic_close_b\smallrpg\game_manager.cpp(2736): warning C4552: "!": результат выражения не используется
+c:\users\metal\desktop\quola_aisic_close_b\smallrpg\game_manager.cpp(2737): warning C4552: "!": результат выражения не используется
+c:\users\metal\desktop\quola_aisic_close_b\smallrpg\game_manager.cpp(2738): warning C4552: "!": результат выражения не используется
+c:\users\metal\desktop\quola_aisic_close_b\smallrpg\game_manager.cpp(2739): warning C4552: "!": результат выражения не используется
+c:\users\metal\desktop\quola_aisic_close_b\smallrpg\game_manager.cpp(2740): warning C4552: "!": результат выражения не используется
+c:\users\metal\desktop\quola_aisic_close_b\smallrpg\game_manager.cpp(2751): warning C4552: "!": результат выражения не используется
+c:\users\metal\desktop\quola_aisic_close_b\smallrpg\game_manager.cpp(2752): warning C4552: "!": результат выражения не используется
+c:\users\metal\desktop\quola_aisic_close_b\smallrpg\game_manager.cpp(2753): warning C4552: "!": результат выражения не используется
+c:\users\metal\desktop\quola_aisic_close_b\smallrpg\game_manager.cpp(2754): warning C4552: "!": результат выражения не используется
+c:\users\metal\desktop\quola_aisic_close_b\smallrpg\game_manager.cpp(2755): warning C4552: "!": результат выражения не используется
+c:\users\metal\desktop\quola_aisic_close_b\smallrpg\game_manager.cpp(2756): warning C4552: "!": результат выражения не используется
+c:\users\metal\desktop\quola_aisic_close_b\smallrpg\game_manager.cpp(2972): warning C4552: "!": результат выражения не используется
+c:\users\metal\desktop\quola_aisic_close_b\smallrpg\game_manager.cpp(2973): warning C4552: "!": результат выражения не используется
+c:\users\metal\desktop\quola_aisic_close_b\smallrpg\game_manager.cpp(2974): warning C4552: "!": результат выражения не используется
+c:\users\metal\desktop\quola_aisic_close_b\smallrpg\game_manager.cpp(2975): warning C4552: "!": результат выражения не используется
+c:\users\metal\desktop\quola_aisic_close_b\smallrpg\game_manager.cpp(2976): warning C4552: "!": результат выражения не используется
+c:\users\metal\desktop\quola_aisic_close_b\smallrpg\game_manager.cpp(2741): warning C4715: Game_manager::printBattle: значение возвращается не при всех путях выполнения
+  SmallRPG.vcxproj -> C:\Users\metal\Desktop\Quola_Aisic_close_b\x64\Debug\SmallRPG.exe

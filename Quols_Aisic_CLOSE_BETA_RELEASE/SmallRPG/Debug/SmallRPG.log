@@ -1,0 +1,105 @@
+﻿  creature.cpp
+  EnemyMap.cpp
+c:\users\johnram\desktop\smallrpgmap\smallrpg\map.h(351): warning C4101: ground: неиспользованная локальная переменная
+c:\users\johnram\desktop\smallrpgmap\smallrpg\map.h(351): warning C4101: water: неиспользованная локальная переменная
+c:\users\johnram\desktop\smallrpgmap\smallrpg\map.h(351): warning C4101: kliff: неиспользованная локальная переменная
+c:\users\johnram\desktop\smallrpgmap\smallrpg\map.h(351): warning C4101: swamp: неиспользованная локальная переменная
+c:\users\johnram\desktop\smallrpgmap\smallrpg\map.h(351): warning C4101: hiKliff: неиспользованная локальная переменная
+c:\users\johnram\desktop\smallrpgmap\smallrpg\map.h(351): warning C4101: sand: неиспользованная локальная переменная
+c:\users\johnram\desktop\smallrpgmap\smallrpg\map.h(1862): warning C4101: y: неиспользованная локальная переменная
+c:\users\johnram\desktop\smallrpgmap\smallrpg\map.h(1861): warning C4101: x: неиспользованная локальная переменная
+  Game_manager.cpp
+c:\users\johnram\desktop\smallrpgmap\smallrpg\map.h(351): warning C4101: ground: неиспользованная локальная переменная
+c:\users\johnram\desktop\smallrpgmap\smallrpg\map.h(351): warning C4101: water: неиспользованная локальная переменная
+c:\users\johnram\desktop\smallrpgmap\smallrpg\map.h(351): warning C4101: kliff: неиспользованная локальная переменная
+c:\users\johnram\desktop\smallrpgmap\smallrpg\map.h(351): warning C4101: swamp: неиспользованная локальная переменная
+c:\users\johnram\desktop\smallrpgmap\smallrpg\map.h(351): warning C4101: hiKliff: неиспользованная локальная переменная
+c:\users\johnram\desktop\smallrpgmap\smallrpg\map.h(351): warning C4101: sand: неиспользованная локальная переменная
+c:\users\johnram\desktop\smallrpgmap\smallrpg\map.h(1862): warning C4101: y: неиспользованная локальная переменная
+c:\users\johnram\desktop\smallrpgmap\smallrpg\map.h(1861): warning C4101: x: неиспользованная локальная переменная
+c:\users\johnram\desktop\smallrpgmap\smallrpg\game_manager.h(17): warning C4305: инициализация: усечение из "double" в "float"
+c:\users\johnram\desktop\smallrpgmap\smallrpg\game_manager.cpp(2385): warning C4552: "!": результат выражения не используется
+c:\users\johnram\desktop\smallrpgmap\smallrpg\game_manager.cpp(2386): warning C4552: "!": результат выражения не используется
+c:\users\johnram\desktop\smallrpgmap\smallrpg\game_manager.cpp(2387): warning C4552: "!": результат выражения не используется
+c:\users\johnram\desktop\smallrpgmap\smallrpg\game_manager.cpp(2388): warning C4552: "!": результат выражения не используется
+c:\users\johnram\desktop\smallrpgmap\smallrpg\game_manager.cpp(2389): warning C4552: "!": результат выражения не используется
+c:\users\johnram\desktop\smallrpgmap\smallrpg\game_manager.cpp(2518): warning C4552: "!": результат выражения не используется
+c:\users\johnram\desktop\smallrpgmap\smallrpg\game_manager.cpp(2546): warning C4552: "!": результат выражения не используется
+c:\users\johnram\desktop\smallrpgmap\smallrpg\game_manager.cpp(2573): warning C4552: "!": результат выражения не используется
+c:\users\johnram\desktop\smallrpgmap\smallrpg\game_manager.cpp(2602): warning C4552: "!": результат выражения не используется
+c:\users\johnram\desktop\smallrpgmap\smallrpg\game_manager.cpp(2612): warning C4552: "!": результат выражения не используется
+c:\users\johnram\desktop\smallrpgmap\smallrpg\game_manager.cpp(2709): warning C4552: "!": результат выражения не используется
+c:\users\johnram\desktop\smallrpgmap\smallrpg\game_manager.cpp(2710): warning C4552: "!": результат выражения не используется
+c:\users\johnram\desktop\smallrpgmap\smallrpg\game_manager.cpp(2711): warning C4552: "!": результат выражения не используется
+c:\users\johnram\desktop\smallrpgmap\smallrpg\game_manager.cpp(2712): warning C4552: "!": результат выражения не используется
+c:\users\johnram\desktop\smallrpgmap\smallrpg\game_manager.cpp(2713): warning C4552: "!": результат выражения не используется
+c:\users\johnram\desktop\smallrpgmap\smallrpg\game_manager.cpp(2724): warning C4552: "!": результат выражения не используется
+c:\users\johnram\desktop\smallrpgmap\smallrpg\game_manager.cpp(2725): warning C4552: "!": результат выражения не используется
+c:\users\johnram\desktop\smallrpgmap\smallrpg\game_manager.cpp(2726): warning C4552: "!": результат выражения не используется
+c:\users\johnram\desktop\smallrpgmap\smallrpg\game_manager.cpp(2727): warning C4552: "!": результат выражения не используется
+c:\users\johnram\desktop\smallrpgmap\smallrpg\game_manager.cpp(2728): warning C4552: "!": результат выражения не используется
+c:\users\johnram\desktop\smallrpgmap\smallrpg\game_manager.cpp(2729): warning C4552: "!": результат выражения не используется
+c:\users\johnram\desktop\smallrpgmap\smallrpg\game_manager.cpp(2940): warning C4552: "!": результат выражения не используется
+c:\users\johnram\desktop\smallrpgmap\smallrpg\game_manager.cpp(2941): warning C4552: "!": результат выражения не используется
+c:\users\johnram\desktop\smallrpgmap\smallrpg\game_manager.cpp(2942): warning C4552: "!": результат выражения не используется
+c:\users\johnram\desktop\smallrpgmap\smallrpg\game_manager.cpp(2943): warning C4552: "!": результат выражения не используется
+c:\users\johnram\desktop\smallrpgmap\smallrpg\game_manager.cpp(2944): warning C4552: "!": результат выражения не используется
+  hero.cpp
+c:\users\johnram\desktop\smallrpgmap\smallrpg\hero.cpp(7): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+c:\users\johnram\desktop\smallrpgmap\smallrpg\hero.cpp(14): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+c:\users\johnram\desktop\smallrpgmap\smallrpg\hero.cpp(15): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+c:\users\johnram\desktop\smallrpgmap\smallrpg\hero.cpp(47): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+c:\users\johnram\desktop\smallrpgmap\smallrpg\hero.cpp(63): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+c:\users\johnram\desktop\smallrpgmap\smallrpg\hero.cpp(64): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+c:\users\johnram\desktop\smallrpgmap\smallrpg\hero.cpp(128): warning C4244: return: преобразование "double" в "int", возможна потеря данных
+c:\users\johnram\desktop\smallrpgmap\smallrpg\hero.cpp(133): warning C4244: return: преобразование "double" в "int", возможна потеря данных
+c:\users\johnram\desktop\smallrpgmap\smallrpg\hero.cpp(136): warning C4244: return: преобразование "double" в "int", возможна потеря данных
+c:\users\johnram\desktop\smallrpgmap\smallrpg\hero.cpp(139): warning C4244: return: преобразование "double" в "int", возможна потеря данных
+  Heroes.cpp
+c:\users\johnram\desktop\smallrpgmap\smallrpg\heroes.cpp(14): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+c:\users\johnram\desktop\smallrpgmap\smallrpg\heroes.cpp(25): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+c:\users\johnram\desktop\smallrpgmap\smallrpg\heroes.cpp(51): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+c:\users\johnram\desktop\smallrpgmap\smallrpg\heroes.cpp(62): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+c:\users\johnram\desktop\smallrpgmap\smallrpg\heroes.cpp(88): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+c:\users\johnram\desktop\smallrpgmap\smallrpg\heroes.cpp(99): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+  Inventory.cpp
+  Item.cpp
+  main.cpp
+c:\users\johnram\desktop\smallrpgmap\smallrpg\map.h(351): warning C4101: ground: неиспользованная локальная переменная
+c:\users\johnram\desktop\smallrpgmap\smallrpg\map.h(351): warning C4101: water: неиспользованная локальная переменная
+c:\users\johnram\desktop\smallrpgmap\smallrpg\map.h(351): warning C4101: kliff: неиспользованная локальная переменная
+c:\users\johnram\desktop\smallrpgmap\smallrpg\map.h(351): warning C4101: swamp: неиспользованная локальная переменная
+c:\users\johnram\desktop\smallrpgmap\smallrpg\map.h(351): warning C4101: hiKliff: неиспользованная локальная переменная
+c:\users\johnram\desktop\smallrpgmap\smallrpg\map.h(351): warning C4101: sand: неиспользованная локальная переменная
+c:\users\johnram\desktop\smallrpgmap\smallrpg\map.h(1862): warning C4101: y: неиспользованная локальная переменная
+c:\users\johnram\desktop\smallrpgmap\smallrpg\map.h(1861): warning C4101: x: неиспользованная локальная переменная
+c:\users\johnram\desktop\smallrpgmap\smallrpg\game_manager.h(17): warning C4305: инициализация: усечение из "double" в "float"
+c:\users\johnram\desktop\smallrpgmap\smallrpg\main.cpp(6): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Map.cpp
+c:\users\johnram\desktop\smallrpgmap\smallrpg\map.h(351): warning C4101: ground: неиспользованная локальная переменная
+c:\users\johnram\desktop\smallrpgmap\smallrpg\map.h(351): warning C4101: water: неиспользованная локальная переменная
+c:\users\johnram\desktop\smallrpgmap\smallrpg\map.h(351): warning C4101: kliff: неиспользованная локальная переменная
+c:\users\johnram\desktop\smallrpgmap\smallrpg\map.h(351): warning C4101: swamp: неиспользованная локальная переменная
+c:\users\johnram\desktop\smallrpgmap\smallrpg\map.h(351): warning C4101: hiKliff: неиспользованная локальная переменная
+c:\users\johnram\desktop\smallrpgmap\smallrpg\map.h(351): warning C4101: sand: неиспользованная локальная переменная
+c:\users\johnram\desktop\smallrpgmap\smallrpg\map.h(1862): warning C4101: y: неиспользованная локальная переменная
+c:\users\johnram\desktop\smallrpgmap\smallrpg\map.h(1861): warning C4101: x: неиспользованная локальная переменная
+  monster.cpp
+  Monsters.cpp
+c:\users\johnram\desktop\smallrpgmap\smallrpg\monsters.cpp(27): warning C4129: ,: неизвестная escape-последовательность
+c:\users\johnram\desktop\smallrpgmap\smallrpg\monsters.cpp(39): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+c:\users\johnram\desktop\smallrpgmap\smallrpg\monsters.cpp(85): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+c:\users\johnram\desktop\smallrpgmap\smallrpg\monsters.cpp(131): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+c:\users\johnram\desktop\smallrpgmap\smallrpg\monsters.cpp(150): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+c:\users\johnram\desktop\smallrpgmap\smallrpg\monsters.cpp(189): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+c:\users\johnram\desktop\smallrpgmap\smallrpg\monsters.cpp(227): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+c:\users\johnram\desktop\smallrpgmap\smallrpg\monsters.cpp(246): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+c:\users\johnram\desktop\smallrpgmap\smallrpg\monsters.cpp(265): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+  PerlinNoise.cpp
+  UpgradeBlock.cpp
+c:\users\johnram\desktop\smallrpgmap\smallrpg\upgradeblock.cpp(488): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+  Utils.cpp
+  Создание кода...
+c:\users\johnram\desktop\smallrpgmap\smallrpg\inventory.cpp(127): warning C4715: Inventory::getItem: значение возвращается не при всех путях выполнения
+c:\users\johnram\desktop\smallrpgmap\smallrpg\game_manager.cpp(2714): warning C4715: Game_manager::printBattle: значение возвращается не при всех путях выполнения
+  SmallRPG.vcxproj -> C:\Users\JohnRam\Desktop\SmallRPGMap\Debug\SmallRPG.exe
