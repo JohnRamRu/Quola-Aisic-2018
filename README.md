@@ -22,5 +22,5 @@ Trailer (rus) https://drive.google.com/drive/folders/1yJqIxFIWcHreIXkblyYbaFrNf_
   
   Letters in blocks - to upgrade character (in upgrades menu)
   
-### To increase map size go to settings
+## !To increase map size go to settings!
 
