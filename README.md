@@ -5,7 +5,9 @@ Trailer (rus) https://drive.google.com/drive/folders/1yJqIxFIWcHreIXkblyYbaFrNf_
 
 ## Navigation
   Use W/S to navigate in main menu
+  
   '@' - You
+  
   Eng letters - enemies
 
 ## Movement
